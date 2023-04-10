@@ -2,7 +2,7 @@
 
 ##### A Software Developer who likes to explore various stacks of technology and develop apps for fun
 
-#### My Interest:
+#### My Interests
 - Web Design
 - Backend API Development
 - Mobile Development
