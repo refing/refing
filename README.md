@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##### A Software Developer who likes to explore various stacks of technology and develop apps for fun
+##### A Software Developer 
 
 #### My Interests
 - Web Design
